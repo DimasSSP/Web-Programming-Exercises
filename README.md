@@ -1,3 +1,5 @@
+LINK : http://dimasssp.unaux.com/ 
+
 Aplikasi game matematika ini dibuat untuk bermain sebuah permainan menebak/menjawab angka penjumlahan yang diberikan oleh sistem dengan mengacak angka dari angka 0 sampai 20.
 Dengan menggunakan aturan :
 1. Pemain memiliki lives/nyawa pada awal permainan sebanyak 5 dan Skor awal adalah 0
@@ -27,4 +29,3 @@ TAMPILAN LEADERBOARD
 ![Leaderboard](https://user-images.githubusercontent.com/71250681/117528940-e1378c00-affe-11eb-80c3-fa11c5ada658.PNG)
 
 
-LINK : http://dimasssp.unaux.com/ 
